@@ -1,0 +1,10 @@
+ {
+  "placeholder": "Write a name...",
+  "button_text": "Add",
+  "welcome_message": "Welcome, {{name}}",
+  "welcome_submessage":
+    "You don't have any tasks yet, <1>create task</1> and your day will be better.",
+  "delete_button_text": "Delete",
+  "items_info_one": "{{count}} item",
+  "items_info_other": "{{count}} items"
+}

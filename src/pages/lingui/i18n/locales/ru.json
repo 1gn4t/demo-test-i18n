@@ -1,0 +1,9 @@
+{
+  "placeholder": "Напишите название...",
+  "button_text": "Добавить",
+  "welcome_message": "Добро пожаловать, {name}",
+  "welcome_submessage":
+    "У вас пока нету ни одной задачи, <b>создайте задачу</b> и ваш день станет лучше.",
+  "delete_button_text": "Удалить",
+  "items_info": "{count, plural, one {# элемент} few {# элемента} many {# элементов} other {# элементов}}"
+}

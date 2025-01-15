@@ -1,0 +1,12 @@
+{
+  "placeholder": "Напишите название...",
+  "button_text": "Добавить",
+  "welcome_message": "Добро пожаловать, {{name}}",
+  "welcome_submessage":
+    "У вас пока нету ни одной задачи, <1>создайте задачу</1> и ваш день станет лучше.",
+  "delete_button_text": "Удалить",
+  "items_info_one": "{{count}} элемент",
+  "items_info_few": "{{count}} элемента",
+  "items_info_many": "{{count}} элементов",
+  "items_info_other": "{{count}} элементов"
+}
